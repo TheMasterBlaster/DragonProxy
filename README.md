@@ -12,7 +12,7 @@ A proxy for **Minecraft: Pocket Edition/Windows 10 Edition** connecting to **Min
 [![Build status indicator](https://circleci.com/gh/DragonetMC/DragonProxy/tree/master.svg?style=badge)](https://circleci.com/gh/DragonetMC/DragonProxy/tree/master) [Download from CircleCI](https://circleci.com/gh/DragonetMC/DragonProxy/tree/master)
 
 #### Supported Remote Server Types
-- `Bukkit`/`Spigot`/`Glowstone`/`SpongeVanilla`/`BungeeCord`
+- `Vanilla`/`Bukkit`/`Spigot`/`Glowstone`/`SpongeVanilla`/`BungeeCord`/`LilyPad`
 
 ## Usage
 Note: Target server must be off-line mode for now, we may add online authentication later. 
